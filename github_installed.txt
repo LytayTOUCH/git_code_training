@@ -1,2 +1,2 @@
 Github installed
-git pulled
+"Ok, you got this code. So, I update the code here and see what happen ! :D"
