@@ -1,3 +1,6 @@
 *.txt
-*.php
+
 github_installed.txt
+
+\github_installed.txt
+
