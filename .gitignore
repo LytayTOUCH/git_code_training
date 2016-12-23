@@ -1,1 +1,3 @@
-github_installed.txt
+*.txt
+!a.txt
+!b.txt
